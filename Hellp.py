@@ -10,3 +10,4 @@ while (letter < len(name)):
   print(name[letter])
   letter=letter+1
 
+#final copy
